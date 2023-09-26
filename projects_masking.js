@@ -1,5 +1,4 @@
-// Store the projectNames array in Tampermonkey's storage
-GM_setValue("projectNames", [
+var projectNames = [
     'woolwortau', 'mdlzrusf', 'pngmx', 'pngbr',
     'gskjp', 'ccaau', 'beiersdorfco', 'sinoth', 'diageous', 'pepsicoes',
     'sanofies', 'diageotw'
